@@ -1,1 +1,1 @@
-Ссылка на сайт: <a href='https://github.com/Vini-spec/Kvast.git'>Kvast</a>
+Ссылка на сайт: <a href='https://vini-spec.github.io/Kvast/'>Kvast</a>
